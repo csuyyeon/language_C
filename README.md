@@ -1,2 +1,2 @@
 # language_C
-C express
+쉽게 풀어쓴 C언어 EXPRESS
